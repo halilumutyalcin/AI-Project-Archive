@@ -44,18 +44,7 @@ OpenCV | OpenCV is a library of programming functions mainly aimed at real-time 
   
  
 </p>
- <p align="center">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-
- >  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
- 
- 
- 
-</p>
 <p align="center">
  <img alt="For-the-Badge-Python" src="https://media-exp1.licdn.com/dms/image/C5616AQHtc-94qSOnSw/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=x_nZhEojjnRGEVwJ0ECKTiqYB_d9ZXn-t31RTEnsKds">
 
